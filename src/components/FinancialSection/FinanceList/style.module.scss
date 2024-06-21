@@ -1,0 +1,14 @@
+.cardList{
+    display: flex;
+    flex-direction: column;
+    gap: 0.9375rem;
+    width: 100%;    
+}
+
+.list{
+    width: 100%;
+
+    & > h3{
+        margin-bottom: 2rem;
+    }
+}

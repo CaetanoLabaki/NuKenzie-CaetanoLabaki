@@ -1,0 +1,7 @@
+.formBox{
+    display: flex;
+    flex-direction: column;   
+    gap: 1.875rem;
+    padding: 1.875rem 1.25rem 40px 1.25rem ;
+    border: 2px solid var( --color-grey-border);    
+}

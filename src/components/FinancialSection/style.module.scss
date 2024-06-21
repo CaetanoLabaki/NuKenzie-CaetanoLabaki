@@ -1,0 +1,18 @@
+.flexBox{
+    display: flex;
+    gap: 4.125rem;
+            
+}
+
+.formTotal{
+    min-width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.125rem;    
+}
+
+@media(max-width: 700px) {
+    .flexBox{
+        flex-direction: column;
+    }
+}

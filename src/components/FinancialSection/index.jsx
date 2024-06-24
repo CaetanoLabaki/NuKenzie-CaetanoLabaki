@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { FinanceForm } from "./FinanceForm"
-import { FinanceList } from "./FinanceList"
+import { FinanceForm } from "./FinanceForm";
+import { FinanceList } from "./FinanceList";
 import { Total } from "./Total";
 import styles from "./style.module.scss";
 
